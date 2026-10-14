@@ -2,6 +2,13 @@
 
 Retail Inventory Demand Forecasting API built with FastAPI and XGBoost.
 
+## Project links
+
+- GitHub Repository: https://github.com/jayeshkoli-1402/RIDF
+- Live API: https://ridf-api.onrender.com/
+- Interactive API Docs: https://ridf-api.onrender.com/docs
+- Test Inputs: https://docs.google.com/document/d/1nhm9JuDhZflT4w7vevUUQeOuSgHNpMAn38iXIr8bxM0/edit?usp=sharing
+
 ## Project structure
 
 - `main.py` - FastAPI app
