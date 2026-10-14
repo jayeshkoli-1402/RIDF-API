@@ -23,7 +23,7 @@ def home():
         "System MSG:": "Retail Inventory Demand Forcasting API is Online",
         "Live At:": "https://ridf-api.onrender.com/",
         "Interactive UI:": "https://ridf-api.onrender.com/docs",
-        "Test Inputs:": "",
+        "Test Inputs:": "https://docs.google.com/document/d/1nhm9JuDhZflT4w7vevUUQeOuSgHNpMAn38iXIr8bxM0/edit?usp=sharing",
     }
 
 
