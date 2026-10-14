@@ -21,8 +21,8 @@ class data(BaseModel):
 def home():
     return {
         "System MSG:": "Retail Inventory Demand Forcasting API is Online",
-        "Live At:": "",
-        "Interactive UI:": "",
+        "Live At:": "https://ridf-api.onrender.com/",
+        "Interactive UI:": "https://ridf-api.onrender.com/docs",
         "Test Inputs:": "",
     }
 
